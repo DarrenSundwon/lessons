@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Site name</h1>
+    <p>Hello world!</p>
 </body>
 </html>
