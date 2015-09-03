@@ -10,8 +10,12 @@
     <?php
         echo 'it`s a Darren Sundown';
         while ($x < 10) {
-            echo 'Hell yeah!!!';
+            microphone($x);
         }
+        function microphone($x) {
+            echo $x;
+        }
+        echo 'One more try';
     ?>
 </body>
 </html>
