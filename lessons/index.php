@@ -16,6 +16,7 @@
             echo $x;
         }
         echo 'One more try';
+        echo 'end of test';
     ?>
 </body>
 </html>
